@@ -10,6 +10,10 @@ Sou **Luiz Henrique**, estou cursando **Redes de Computadores no Instituto Feder
 
 </div>
 
+<div align="center">
+<img src="game.gif"/>
+</div>
+
 ---
 
 <div align="center">
