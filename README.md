@@ -16,6 +16,10 @@ Sou **Luiz Henrique**, estou cursando **Redes de Computadores no Instituto Feder
   <img
     src="https://github-stats-extended.vercel.app/api?username=LuizHenrique406&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20no%20GitHub&show_icons=true&include_all_commits=true&theme=nord"/>
 </div>
+<div align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=LuizHenrique406&layout=compact&langs_count=4&theme=nord"/>
+</div>
 
 ---
 
