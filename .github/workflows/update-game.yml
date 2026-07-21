@@ -14,6 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v6
         with:
+          repository: LuizHenrique406/LuizHenrique406
           fetch-depth: 2  # This is crucial!
 
       - uses: czl9707/gh-space-shooter@v2
